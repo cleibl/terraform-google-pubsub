@@ -7,6 +7,17 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [5.0.0](https://github.com/terraform-google-modules/terraform-google-pubsub/compare/v4.0.1...v5.0.0) (2022-10-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* :sparkles: added bigquery subcription capability (#101)
+
+### Features
+
+* :sparkles: added bigquery subcription capability ([#101](https://github.com/terraform-google-modules/terraform-google-pubsub/issues/101)) ([466a9ec](https://github.com/terraform-google-modules/terraform-google-pubsub/commit/466a9ec1cb36e69d975072f22dd12e05a45fa233))
+
 ## [4.0.1](https://github.com/terraform-google-modules/terraform-google-pubsub/compare/v4.0.0...v4.0.1) (2022-08-06)
 
 
